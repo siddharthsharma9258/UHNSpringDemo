@@ -2,11 +2,12 @@
 Spring REST API demo application built for UHN
 
 #**Introduction**
-The application uses an H2 database to host the patient repository. 
-Application runs on 8080 port.
-Browser operations are done on the context-path /demo
-Postman or CURL operations can be performed on path /api
-Logging is done on the console instead of a file.
+
+1. The application uses an H2 database to host the patient repository. 
+2. Application runs on 8080 port.
+3. Browser operations are done on the context-path /demo
+4. Postman or CURL operations can be performed on path /api
+5. Logging is done on the console instead of a file.
 
 
 Steps to build and run the application.
