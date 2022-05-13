@@ -1,2 +1,2 @@
-# UHNSpringDemo
-Spring REST API demo for UHN
+# uhnSpringDemo
+Spring REST API demo application built for UHN
